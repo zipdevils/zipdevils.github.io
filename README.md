@@ -1,7 +1,7 @@
 
-About zipdevil
+About zipdevils
 
-zipdevil is a Php-based security tool designed to crack zip files using bruit force attack. It helps recover a forgoten password.
+zipdevils is a Php-based security tool designed to crack zip files using bruit force attack. It helps recover a forgoten password.
 Key Features
 
     it crack password using dictionary attack.
